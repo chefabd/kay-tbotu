@@ -1,0 +1,44 @@
+{
+    "BotSettings": {
+        "owner": "692704151364304987",
+        "prefix": "s.",
+        "botStatus": "Screw Kayıt",
+        "botVoiceChannelID": "837460136317550613"
+    },
+    "Roles": {
+        "BoyRole1": "812788093593583660",
+        "BoyRole2": "812788093593583660",
+        "GirlRole1": "812788093631201333",
+        "GirlRole2": "812788093631201333",
+        "Unregister": "824996192172638238",
+        "Registerer": "826223085413466112",
+        "TagRole": "823978456361861200",
+        "Suspicious": "ŞÜPHELİ ROL",
+        "Jail": "830600537308790814"
+    },
+        "Colors": {
+            "Red": "030303",
+            "Magenta": "030303",
+            "Black": "030303",
+            "Gold": "030303",
+            "Pink": "030303",
+            "Green": "030303",
+            "Yellow": "030303"
+    },
+        "ServerSettings": {
+            "ServerName": "ϟ SCREW  #𝐘𝐄𝐓𝐊İ𝐋İ𝐀𝐋𝐈𝐌",
+            "ServerID": "836725729671905290",
+            "Tag": "ϟ",
+            "UnTag": "•"
+    },
+        "Channels": {
+            "RegisterChat": "826215377984946198",
+            "TagLog": "831274633810149386",
+            "Rules": "826402856093352017",
+            "GeneralChat": "823908632525144084"
+        },
+        "Welcome": {
+            "WelcomeChat": "826215377984946198",
+            "WelcomeName": "• İsim | Yaş"
+        }
+}
